@@ -1,0 +1,26 @@
+floatPrecision: 1
+multipass: true
+plugins:
+- removeTitle: true
+- removeDesc: true
+- removeUselessDefs: true
+- removeHiddenElems: true
+- removeViewBox: false
+- removeUnknownsAndDefaults: true
+- removeUselessStrokeAndFill: true
+- removeUnusedNS: true
+- cleanupIDs: true
+- cleanupNumericValues: true
+- collapseGroups: true
+- removeRasterImages: true
+- sortAttrs: true
+- removeDimensions: true
+- removeAttrs:
+    attrs:
+    - 'font.*'
+    - 'opacity'
+    - 'paint.*'
+    - 'stroke.*'
+    - 'text.*'
+- removeStyleElement: true
+- removeScriptElement: true
