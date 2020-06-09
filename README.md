@@ -9,8 +9,7 @@ https://hatscripts.github.io/circle-flags/flags/xx.svg
 ```
 (Where `xx` is the [ISO 3166-1 alpha-2 code](https://www.iso.org/obp/ui/#search/code/) of a country).
 
-For example:
-
+For example, the following code:
 ```html
 <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48">
 <img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="48">
@@ -21,9 +20,7 @@ For example:
 <img src="https://hatscripts.github.io/circle-flags/flags/za.svg" width="48">
 ```
 
-Gives:
-
-\
+...produces this:<br/><br/>
 <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48">
 <img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="48">
 <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="48">
@@ -31,3 +28,22 @@ Gives:
 <img src="https://hatscripts.github.io/circle-flags/flags/mx.svg" width="48">
 <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
 <img src="https://hatscripts.github.io/circle-flags/flags/za.svg" width="48">
+
+## Contributing
+
+To contribute, you need to have [svgo](https://github.com/svg/svgo) installed
+(version 1.2.0 or newer).
+
+First, edit the relevant SVG files in the `flags/` directory.
+
+Then run `svgo` to optimize the SVG files:
+
+```sh
+svgo ./flags --recursive
+```
+
+Then commit the changes, and submit them as a pull request.
+
+## License
+
+This project is released under the [MIT license](LICENSE).
