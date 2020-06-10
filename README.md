@@ -29,6 +29,8 @@ For example, the following code:
 <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
 <img src="https://hatscripts.github.io/circle-flags/flags/za.svg" width="48">
 
+To view all the available flags, check the [gallery](all-flags.md).
+
 ## Contributing
 
 To contribute, you need to have [svgo](https://github.com/svg/svgo) installed
