@@ -197,7 +197,7 @@
   <div><img src="flags/ni.svg" width="100"/><p>Nicaragua (<code>NI</code>)</p></div>
   <div><img src="flags/nl.svg" width="100"/><p>Netherlands (<code>NL</code>)</p></div>
   <div><img src="flags/no.svg" width="100"/><p>Norway (<code>NO</code>)</p></div>
-  <div><img src="flags/northen_cyprus.svg" width="100"/><p>Northern Cyprus</p></div>
+  <div><img src="flags/northern_cyprus.svg" width="100"/><p>Northern Cyprus</p></div>
   <div><img src="flags/np.svg" width="100"/><p>Nepal (<code>NP</code>)</p></div>
   <div><img src="flags/nr.svg" width="100"/><p>Nauru (<code>NR</code>)</p></div>
   <div><img src="flags/nu.svg" width="100"/><p>Niue (<code>NU</code>)</p></div>
