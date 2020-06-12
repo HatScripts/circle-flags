@@ -68,7 +68,6 @@
   <div><img src="flags/dm.svg" width="100"/><p>Dominica (<code>DM</code>)</p></div>
   <div><img src="flags/do.svg" width="100"/><p>Dominican Republic (<code>DO</code>)</p></div>
   <div><img src="flags/dz.svg" width="100"/><p>Algeria (<code>DZ</code>)</p></div>
-  <div><img src="flags/ea.svg" width="100"/><p>Ceuta</p></div>
   <div><img src="flags/easter_island.svg" width="100"/><p>Easter Island</p></div>
   <div><img src="flags/ec-w.svg" width="100"/><p>Galápagos</p></div>
   <div><img src="flags/ec.svg" width="100"/><p>Ecuador (<code>EC</code>)</p></div>
@@ -76,6 +75,7 @@
   <div><img src="flags/eg.svg" width="100"/><p>Egypt (<code>EG</code>)</p></div>
   <div><img src="flags/eh.svg" width="100"/><p>Western Sahara (<code>EH</code>)</p></div>
   <div><img src="flags/er.svg" width="100"/><p>Eritrea (<code>ER</code>)</p></div>
+  <div><img src="flags/es-ce.svg" width="100"/><p>Ceuta</p></div>
   <div><img src="flags/es-cn.svg" width="100"/><p>Canary Islands</p></div>
   <div><img src="flags/es-ga.svg" width="100"/><p>Galicia</p></div>
   <div><img src="flags/es-ib.svg" width="100"/><p>Balearic Islands</p></div>
