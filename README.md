@@ -41,7 +41,7 @@ First, edit the relevant SVG files in the `flags/` directory.
 Then run `svgo` to optimize the SVG files:
 
 ```sh
-svgo ./flags --recursive
+svgo ./flags --recursive --config=svgo.yml
 ```
 
 Then commit the changes, and submit them as a pull request.

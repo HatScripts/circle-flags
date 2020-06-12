@@ -1,20 +1,12 @@
+# Default options: https://github.com/svg/svgo#what-it-can-do
+
 floatPrecision: 1
 multipass: true
 plugins:
-- removeTitle: true
-- removeDesc: true
-- removeUselessDefs: true
-- removeHiddenElems: true
+- removeDimensions: true
 - removeViewBox: false
-- removeUnknownsAndDefaults: true
-- removeUselessStrokeAndFill: true
-- removeUnusedNS: true
-- cleanupIDs: true
-- cleanupNumericValues: true
-- collapseGroups: true
 - removeRasterImages: true
 - sortAttrs: true
-- removeDimensions: true
 - removeAttrs:
     attrs:
     - 'font.*'
@@ -24,3 +16,10 @@ plugins:
     - 'text.*'
 - removeStyleElement: true
 - removeScriptElement: true
+# Avoid optimization that breaks some editors/viewers.
+# For context, see https://github.com/svg/svgo/issues/1137
+# and https://github.com/HatScripts/circle-flags/pull/4.
+- convertPathData:
+    noSpaceAfterFlags: false
+- mergePaths:
+    noSpaceAfterFlags: false
