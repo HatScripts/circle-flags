@@ -46,6 +46,10 @@ svgo ./flags --recursive --config=svgo.yml
 
 Then commit the changes, and submit them as a pull request.
 
+## React
+
+- Try [react-circle-flags](https://www.npmjs.com/package/react-circle-flags) package.
+
 ## License
 
 This project is released under the [MIT license](LICENSE).
