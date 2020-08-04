@@ -31,6 +31,11 @@ For example, the following code:
 
 To view all the available flags, check the [gallery](all-flags.md).
 
+### React
+
+If you're using [React](https://reactjs.org), you may want to try the
+[react-circle-flags](https://www.npmjs.com/package/react-circle-flags) package.
+
 ## Contributing
 
 To contribute, you need to have [svgo](https://github.com/svg/svgo) installed
@@ -45,10 +50,6 @@ svgo ./flags --recursive --config=svgo.yml
 ```
 
 Then commit the changes, and submit them as a pull request.
-
-## React
-
-- Try [react-circle-flags](https://www.npmjs.com/package/react-circle-flags) package.
 
 ## License
 
