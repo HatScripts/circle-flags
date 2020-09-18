@@ -36,6 +36,14 @@ To view all the available flags, check the [gallery](all-flags.md).
 If you're using [React](https://reactjs.org), you may want to try the
 [react-circle-flags](https://www.npmjs.com/package/react-circle-flags) package.
 
+### NPM
+
+If you want to install this package as dependency, you can install it from this GitHub repository:
+
+```
+npm install --save https://github.com/HatScripts/circle-flags
+```
+
 ## Contributing
 
 To contribute, you need to have [svgo](https://github.com/svg/svgo) installed
