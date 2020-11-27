@@ -99,8 +99,8 @@
   <div><img src="flags/gb-wls.svg" width="100"/><p>Wales</p></div>
   <div><img src="flags/gb.svg" width="100"/><p>United Kingdom (<code>GB</code>)</p></div>
   <div><img src="flags/gd.svg" width="100"/><p>Grenada (<code>GD</code>)</p></div>
-  <div><img src="flags/ge-ab.svg" width="100"/><p>Georgia (<code>GE</code>)</p></div>
-  <div><img src="flags/ge.svg" width="100"/><p>French Guiana (<code>GF</code>)</p></div>
+  <div><img src="flags/ge.svg" width="100"/><p>Georgia (<code>GE</code>)</p></div>
+  <div><img src="flags/gf.svg" width="100"/><p>French Guiana (<code>GF</code>)</p></div>
   <div><img src="flags/gg.svg" width="100"/><p>Guernsey (<code>GG</code>)</p></div>
   <div><img src="flags/gh.svg" width="100"/><p>Ghana (<code>GH</code>)</p></div>
   <div><img src="flags/gi.svg" width="100"/><p>Gibraltar (<code>GI</code>)</p></div>
@@ -285,7 +285,7 @@
   <div><img src="flags/vu.svg" width="100"/><p>Vanuatu (<code>VU</code>)</p></div>
   <div><img src="flags/xx.svg" width="100"/><p>Wallis and Futuna (<code>WF</code>)</p></div>
   <div><img src="flags/ws.svg" width="100"/><p>Samoa (<code>WS</code>)</p></div>
-  <div><img src="flags/xk.svg" width="100"/><p>Kosovo</p></div>
+  <div><img src="flags/xk.svg" width="100"/><p>Kosovo (<code>XK</code>)</p></div>
   <div><img src="flags/xx.svg" width="100"/><p>&lt;Placeholder&gt;</p></div>
   <div><img src="flags/ye.svg" width="100"/><p>Yemen (<code>YE</code>)</p></div>
   <div><img src="flags/xx.svg" width="100"/><p>Mayotte (<code>YT</code>)</p></div>
