@@ -1,0 +1,37 @@
+{
+  "name": "circle-flags",
+  "version": "1.0.0",
+  "description": "A collection of circular SVG country flags.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HatScripts/circle-flags.git"
+  },
+  "keywords": [
+    "svg",
+    "country-flags",
+    "country",
+    "icons",
+    "circular",
+    "round",
+    "circle",
+    "minimal",
+    "design",
+    "flags",
+    "svg-icons",
+    "svgo",
+    "minimalist",
+    "minimalistic",
+    "countries",
+    "circle-flags",
+    "languages",
+    "states",
+    "circles",
+    "icon-pack"
+  ],
+  "author": "HatScripts <contact@hatscripts.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HatScripts/circle-flags/issues"
+  },
+  "homepage": "https://github.com/HatScripts/circle-flags#readme"
+}
