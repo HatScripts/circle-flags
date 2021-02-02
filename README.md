@@ -18,6 +18,7 @@ For example, the following code:
 <img src="https://hatscripts.github.io/circle-flags/flags/mx.svg" width="48">
 <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
 <img src="https://hatscripts.github.io/circle-flags/flags/za.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/za.svg" width="48">
 ```
 
 ...produces this:<br/><br/>
@@ -29,7 +30,7 @@ For example, the following code:
 <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
 <img src="https://hatscripts.github.io/circle-flags/flags/za.svg" width="48">
 
-To view all the available flags, check the [gallery](all-flags.md).
+To view all the available flags, check [the gallery](https://hatscripts.github.io/circle-flags/all-flags.html).
 
 ### React
 
