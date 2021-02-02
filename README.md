@@ -48,19 +48,56 @@ npm install --save https://github.com/HatScripts/circle-flags
 - [Google Translate: Filter & Flags](https://github.com/HatScripts/google-translate-filter-and-flags) - Filters languages and shows country flags on Google Translate
 - [Wiktionary: Filter & Flags](https://github.com/HatScripts/wiktionary-filter-and-flags) - Filters languages and shows country flags on Wiktionary
 
-## Contributing
+### Custom builds
 
-To contribute, you need to have the latest version of [svgo](https://github.com/svg/svgo) installed.
+You can create a customized build by running the included script:
 
-First, edit the relevant SVG files in the `flags/` directory.
-
-Then run `svgo` to optimize the SVG files:
-
-```sh
-svgo ./flags --recursive --config=svgo.config.js
+```
+$ npm install
+$ CORNER_RADIUS=25% npm run build
 ```
 
-Then commit the changes, and submit them as a pull request.
+This will generate flags with rounded corners instead of the default circle. The files will appear in the `build/` directory.
+
+To build only selected icons, pass their codes as arguments:
+
+```
+$ CORNER_RADIUS=25% npm run build gb us ca
+```
+
+The following environment variables are currently recognized:
+
+| Variable        | Default value  |
+| --------------- | -------------- |
+| `SRC_DIR`       | `src/`         |
+| `BUILD_DIR`     | `build/`       |
+| `CORNER_RADIUS` | `50%` (circle) |
+
+## Contributing
+
+To contribute, clone the repository and install the dependencies:
+
+```
+$ git clone https://github.com/HatScripts/circle-flags.git
+$ cd circle-flags/
+$ npm install
+```
+
+Edit the relevant SVG files under `src/`, then run the build script on them, e.g.:
+
+```
+$ npm run build us ru cn
+```
+
+The files will appear under `build/`. Check if everything looks good, then move the files into `flags/`.
+
+It's likely that your editor inflated the source files considerably—it's a good idea to prettify them before proceeding (requires [svgo]() >=1.2.0):
+
+```
+$ svgo --config=svgo.yml --recursive --pretty --indent=2 src/
+```
+
+Commit the changes and submit them as a pull request.
 
 ### The color palette
 
