@@ -12,22 +12,24 @@ https://hatscripts.github.io/circle-flags/flags/xx.svg
 For example, the following code:
 ```html
 <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48">
-<img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="48">
 <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="48">
-<img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" width="48">
-<img src="https://hatscripts.github.io/circle-flags/flags/mx.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/in.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/ng.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="48">
 <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
-<img src="https://hatscripts.github.io/circle-flags/flags/za.svg" width="48">
 ```
 
 ...produces this:<br/><br/>
 <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48">
-<img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="48">
 <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="48">
-<img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" width="48">
-<img src="https://hatscripts.github.io/circle-flags/flags/mx.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/in.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/ng.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="48">
 <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
-<img src="https://hatscripts.github.io/circle-flags/flags/za.svg" width="48">
 
 To view all the available flags, check [the gallery](https://hatscripts.github.io/circle-flags/all-flags.html).
 
