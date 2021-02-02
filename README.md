@@ -18,7 +18,6 @@ For example, the following code:
 <img src="https://hatscripts.github.io/circle-flags/flags/mx.svg" width="48">
 <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
 <img src="https://hatscripts.github.io/circle-flags/flags/za.svg" width="48">
-<img src="https://hatscripts.github.io/circle-flags/flags/za.svg" width="48">
 ```
 
 ...produces this:<br/><br/>
