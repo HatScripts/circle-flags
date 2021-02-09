@@ -87,7 +87,7 @@ $ npm run build us ru cn
 
 The files will appear under `build/`. Check if everything looks good, then move the files into `flags/`.
 
-It's likely that your editor inflated the source files considerably—it's a good idea to prettify them before proceeding (requires [svgo]() >=1.2.0):
+It's likely that your editor inflated the source files considerably—it's a good idea to prettify them before proceeding (requires [svgo](https://github.com/svg/svgo) >=1.2.0):
 
 ```
 $ svgo --config=svgo.yml --recursive --pretty --indent=2 src/
