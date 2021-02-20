@@ -53,7 +53,7 @@ $ npm install
 $ CORNER_RADIUS=25% npm run build
 ```
 
-This will generate flags with rounded corners instead of the default circle. The files will appear in the `build/` directory.
+This will generate flags as squares with rounded corners instead of the default circle. The files will appear in the `build/` directory.
 
 To build only selected icons, pass their codes as arguments:
 
