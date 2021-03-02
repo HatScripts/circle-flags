@@ -32,9 +32,9 @@
   <div><img src="flags/bm.svg" width="100"/><p>Bermuda (<code>BM</code>)</p></div>
   <div><img src="flags/bn.svg" width="100"/><p>Brunei (<code>BN</code>)</p></div>
   <div><img src="flags/bo.svg" width="100"/><p>Bolivia (<code>BO</code>)</p></div>
-  <div><img src="flags/bq-bo.svg" width="100"/><p>Bonaire (<code>BQ</code>)</p></div>
-  <div><img src="flags/bq-sa.svg" width="100"/><p>Saba (<code>BQ</code>)</p></div>
-  <div><img src="flags/bq-se.svg" width="100"/><p>Sint Eustatius (<code>BQ</code>)</p></div>
+  <div><img src="flags/bq-bo.svg" width="100"/><p>Bonaire (<code>BQ-BO</code>)</p></div>
+  <div><img src="flags/bq-sa.svg" width="100"/><p>Saba (<code>BQ-SA</code>)</p></div>
+  <div><img src="flags/bq-se.svg" width="100"/><p>Sint Eustatius (<code>BQ-SE</code>)</p></div>
   <div><img src="flags/br.svg" width="100"/><p>Brazil (<code>BR</code>)</p></div>
   <div><img src="flags/bs.svg" width="100"/><p>Bahamas (<code>BS</code>)</p></div>
   <div><img src="flags/bt.svg" width="100"/><p>Bhutan (<code>BT</code>)</p></div>
