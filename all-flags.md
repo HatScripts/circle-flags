@@ -38,7 +38,7 @@
   <div><img src="flags/br.svg" width="100"/><p>Brazil (<code>BR</code>)</p></div>
   <div><img src="flags/bs.svg" width="100"/><p>Bahamas (<code>BS</code>)</p></div>
   <div><img src="flags/bt.svg" width="100"/><p>Bhutan (<code>BT</code>)</p></div>
-  <div><img src="flags/xx.svg" width="100"/><p>Bouvet Island (<code>BV</code>)</p></div>
+  <div><img src="flags/bv.svg" width="100"/><p>Bouvet Island (<code>BV</code>)</p></div>
   <div><img src="flags/bw.svg" width="100"/><p>Botswana (<code>BW</code>)</p></div>
   <div><img src="flags/by.svg" width="100"/><p>Belarus (<code>BY</code>)</p></div>
   <div><img src="flags/bz.svg" width="100"/><p>Belize (<code>BZ</code>)</p></div>
@@ -118,7 +118,7 @@
   <div><img src="flags/hausa.svg" width="100"/><p>Hausa</p></div>
   <div><img src="flags/hk.svg" width="100"/><p>Hong Kong (<code>HK</code>)</p></div>
   <div><img src="flags/hmong.svg" width="100"/><p>Hmong</p></div>
-  <div><img src="flags/xx.svg" width="100"/><p>Heard Island and McDonald Islands (<code>HM</code>)</p></div>
+  <div><img src="flags/hm.svg" width="100"/><p>Heard Island and McDonald Islands (<code>HM</code>)</p></div>
   <div><img src="flags/hn.svg" width="100"/><p>Honduras (<code>HN</code>)</p></div>
   <div><img src="flags/hr.svg" width="100"/><p>Croatia (<code>HR</code>)</p></div>
   <div><img src="flags/ht.svg" width="100"/><p>Haiti (<code>HT</code>)</p></div>
@@ -235,7 +235,8 @@
   <div><img src="flags/xx.svg" width="100"/><p>Ascension Island (<code>SH-AC</code>)</p></div>
   <div><img src="flags/xx.svg" width="100"/><p>Tristan da Cunha (<code>SH-TA</code>)</p></div>
   <div><img src="flags/si.svg" width="100"/><p>Slovenia (<code>SI</code>)</p></div>
-  <div><img src="flags/sindh.svg" width="100"/><p>Svalbard and Jan Mayen (<code>SJ</code>)</p></div>
+  <div><img src="flags/sindh.svg" width="100"/><p>Sindh</p></div>
+  <div><img src="flags/sj.svg" width="100"/><p>Svalbard and Jan Mayen (<code>SJ</code>)</p></div>
   <div><img src="flags/sk.svg" width="100"/><p>Slovakia (<code>SK</code>)</p></div>
   <div><img src="flags/sl.svg" width="100"/><p>Sierra Leone (<code>SL</code>)</p></div>
   <div><img src="flags/sm.svg" width="100"/><p>San Marino (<code>SM</code>)</p></div>
@@ -271,9 +272,9 @@
   <div><img src="flags/ua.svg" width="100"/><p>Ukraine (<code>UA</code>)</p></div>
   <div><img src="flags/ug.svg" width="100"/><p>Uganda (<code>UG</code>)</p></div>
   <div><img src="flags/united_nations.svg" width="100"/><p>United Nations</p></div>
-  <div><img src="flags/xx.svg" width="100"/><p>U.S. Minor Outlying Islands (<code>UM</code>)</p></div>
   <div><img src="flags/us-hi.svg" width="100"/><p>Hawaii</p></div>
   <div><img src="flags/us.svg" width="100"/><p>United States of America (<code>US</code>)</p></div>
+  <div><img src="flags/um.svg" width="100"/><p>United States Minor Outlying Islands (<code>UM</code>)</p></div>
   <div><img src="flags/uy.svg" width="100"/><p>Uruguay (<code>UY</code>)</p></div>
   <div><img src="flags/uz.svg" width="100"/><p>Uzbekistan (<code>UZ</code>)</p></div>
   <div><img src="flags/va.svg" width="100"/><p>Holy See (Vatican) (<code>VA</code>)</p></div>
