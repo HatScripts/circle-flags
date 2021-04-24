@@ -11,7 +11,7 @@
   <div><img src="flags/al.svg" width="100"/><p>Albania (<code>AL</code>)</p></div>
   <div><img src="flags/am.svg" width="100"/><p>Armenia (<code>AM</code>)</p></div>
   <div><img src="flags/ao.svg" width="100"/><p>Angola (<code>AO</code>)</p></div>
-  <div><img src="flags/xx.svg" width="100"/><p>Antarctica (<code>AQ</code>)</p></div>
+  <div><img src="flags/aq.svg" width="100"/><p>Antarctica (<code>AQ</code>)</p></div>
   <div><img src="flags/ar.svg" width="100"/><p>Argentina (<code>AR</code>)</p></div>
   <div><img src="flags/as.svg" width="100"/><p>American Samoa (<code>AS</code>)</p></div>
   <div><img src="flags/at.svg" width="100"/><p>Austria (<code>AT</code>)</p></div>
