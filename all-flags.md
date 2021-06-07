@@ -253,7 +253,7 @@
   <div><img src="flags/sz.svg" width="100"/><p>Eswatini (<code>SZ</code>)</p></div>
   <div><img src="flags/tc.svg" width="100"/><p>Turks and Caicos Islands (<code>TC</code>)</p></div>
   <div><img src="flags/td.svg" width="100"/><p>Chad (<code>TD</code>)</p></div>
-  <div><img src="flags/xx.svg" width="100"/><p>French Southern Territories (<code>TF</code>)</p></div>
+  <div><img src="flags/tf.svg" width="100"/><p>French Southern Territories (<code>TF</code>)</p></div>
   <div><img src="flags/tg.svg" width="100"/><p>Togo (<code>TG</code>)</p></div>
   <div><img src="flags/th.svg" width="100"/><p>Thailand (<code>TH</code>)</p></div>
   <div><img src="flags/tibet.svg" width="100"/><p>Tibet</p></div>
@@ -284,12 +284,12 @@
   <div><img src="flags/vi.svg" width="100"/><p>Virgin Islands (U.S.) (<code>VI</code>)</p></div>
   <div><img src="flags/vn.svg" width="100"/><p>Vietnam (<code>VN</code>)</p></div>
   <div><img src="flags/vu.svg" width="100"/><p>Vanuatu (<code>VU</code>)</p></div>
-  <div><img src="flags/xx.svg" width="100"/><p>Wallis and Futuna (<code>WF</code>)</p></div>
+  <div><img src="flags/wf.svg" width="100"/><p>Wallis and Futuna (<code>WF</code>)</p></div>
   <div><img src="flags/ws.svg" width="100"/><p>Samoa (<code>WS</code>)</p></div>
   <div><img src="flags/xk.svg" width="100"/><p>Kosovo (<code>XK</code>)</p></div>
   <div><img src="flags/xx.svg" width="100"/><p>&lt;Placeholder&gt;</p></div>
   <div><img src="flags/ye.svg" width="100"/><p>Yemen (<code>YE</code>)</p></div>
-  <div><img src="flags/xx.svg" width="100"/><p>Mayotte (<code>YT</code>)</p></div>
+  <div><img src="flags/yt.svg" width="100"/><p>Mayotte (<code>YT</code>)</p></div>
   <div><img src="flags/yiddish.svg" width="100"/><p>Yiddish</p></div>
   <div><img src="flags/za.svg" width="100"/><p>South Africa (<code>ZA</code>)</p></div>
   <div><img src="flags/zm.svg" width="100"/><p>Zambia (<code>ZM</code>)</p></div>
