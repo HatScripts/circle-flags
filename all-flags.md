@@ -169,7 +169,7 @@
   <div><img src="flags/mc.svg" width="100"/><p>Monaco (<code>MC</code>)</p></div>
   <div><img src="flags/md.svg" width="100"/><p>Moldova (<code>MD</code>)</p></div>
   <div><img src="flags/me.svg" width="100"/><p>Montenegro (<code>ME</code>)</p></div>
-  <div><img src="flags/xx.svg" width="100"/><p>Saint-Martin (<code>MF</code>)</p></div>
+  <div><img src="flags/mf.svg" width="100"/><p>Saint-Martin (<code>MF</code>)</p></div>
   <div><img src="flags/mg.svg" width="100"/><p>Madagascar (<code>MG</code>)</p></div>
   <div><img src="flags/mh.svg" width="100"/><p>Marshall Islands (<code>MH</code>)</p></div>
   <div><img src="flags/mk.svg" width="100"/><p>North Macedonia (<code>MK</code>)</p></div>
@@ -210,7 +210,7 @@
   <div><img src="flags/ph.svg" width="100"/><p>Philippines (<code>PH</code>)</p></div>
   <div><img src="flags/pk.svg" width="100"/><p>Pakistan (<code>PK</code>)</p></div>
   <div><img src="flags/pl.svg" width="100"/><p>Poland (<code>PL</code>)</p></div>
-  <div><img src="flags/xx.svg" width="100"/><p>Saint Pierre and Miquelon (<code>PM</code>)</p></div>
+  <div><img src="flags/pm.svg" width="100"/><p>Saint Pierre and Miquelon (<code>PM</code>)</p></div>
   <div><img src="flags/pn.svg" width="100"/><p>Pitcairn Islands (<code>PN</code>)</p></div>
   <div><img src="flags/pr.svg" width="100"/><p>Puerto Rico (<code>PR</code>)</p></div>
   <div><img src="flags/ps.svg" width="100"/><p>Palestine (<code>PS</code>)</p></div>
@@ -220,7 +220,7 @@
   <div><img src="flags/pw.svg" width="100"/><p>Palau (<code>PW</code>)</p></div>
   <div><img src="flags/py.svg" width="100"/><p>Paraguay (<code>PY</code>)</p></div>
   <div><img src="flags/qa.svg" width="100"/><p>Qatar (<code>QA</code>)</p></div>
-  <div><img src="flags/xx.svg" width="100"/><p>Réunion (<code>RE</code>)</p></div>
+  <div><img src="flags/re.svg" width="100"/><p>Réunion (<code>RE</code>)</p></div>
   <div><img src="flags/ro.svg" width="100"/><p>Romania (<code>RO</code>)</p></div>
   <div><img src="flags/rs.svg" width="100"/><p>Serbia (<code>RS</code>)</p></div>
   <div><img src="flags/ru.svg" width="100"/><p>Russia (<code>RU</code>)</p></div>
