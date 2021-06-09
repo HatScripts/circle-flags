@@ -231,7 +231,7 @@
   <div><img src="flags/sd.svg" width="100"/><p>Sudan (<code>SD</code>)</p></div>
   <div><img src="flags/se.svg" width="100"/><p>Sweden (<code>SE</code>)</p></div>
   <div><img src="flags/sg.svg" width="100"/><p>Singapore (<code>SG</code>)</p></div>
-  <div><img src="flags/xx.svg" width="100"/><p>Saint Helena (<code>SH-HL</code>)</p></div>
+  <div><img src="flags/sh-hl.svg" width="100"/><p>Saint Helena (<code>SH-HL</code>)</p></div>
   <div><img src="flags/xx.svg" width="100"/><p>Ascension Island (<code>SH-AC</code>)</p></div>
   <div><img src="flags/xx.svg" width="100"/><p>Tristan da Cunha (<code>SH-TA</code>)</p></div>
   <div><img src="flags/si.svg" width="100"/><p>Slovenia (<code>SI</code>)</p></div>
