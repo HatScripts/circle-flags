@@ -107,7 +107,7 @@
   <div><img src="flags/gl.svg" width="100"/><p>Greenland (<code>GL</code>)</p></div>
   <div><img src="flags/gm.svg" width="100"/><p>Gambia (<code>GM</code>)</p></div>
   <div><img src="flags/gn.svg" width="100"/><p>Guinea (<code>GN</code>)</p></div>
-  <div><img src="flags/xx.svg" width="100"/><p>Guadeloupe (<code>GP</code>)</p></div>
+  <div><img src="flags/gp.svg" width="100"/><p>Guadeloupe (<code>GP</code>)</p></div>
   <div><img src="flags/gq.svg" width="100"/><p>Equatorial Guinea (<code>GQ</code>)</p></div>
   <div><img src="flags/gr.svg" width="100"/><p>Greece (<code>GR</code>)</p></div>
   <div><img src="flags/gs.svg" width="100"/><p>South Georgia and the South Sandwich Islands (<code>GS</code>)</p></div>
@@ -189,7 +189,7 @@
   <div><img src="flags/my.svg" width="100"/><p>Malaysia (<code>MY</code>)</p></div>
   <div><img src="flags/mz.svg" width="100"/><p>Mozambique (<code>MZ</code>)</p></div>
   <div><img src="flags/na.svg" width="100"/><p>Namibia (<code>NA</code>)</p></div>
-  <div><img src="flags/xx.svg" width="100"/><p>New Caledonia (<code>NC</code>)</p></div>
+  <div><img src="flags/nc.svg" width="100"/><p>New Caledonia (<code>NC</code>)</p></div>
   <div><img src="flags/nato.svg" width="100"/><p>NATO</p></div>
   <div><img src="flags/ne.svg" width="100"/><p>Niger (<code>NE</code>)</p></div>
   <div><img src="flags/nf.svg" width="100"/><p>Norfolk Island (<code>NF</code>)</p></div>
