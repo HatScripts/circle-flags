@@ -110,7 +110,7 @@
   <div><img src="flags/xx.svg" width="100"/><p>Guadeloupe (<code>GP</code>)</p></div>
   <div><img src="flags/gq.svg" width="100"/><p>Equatorial Guinea (<code>GQ</code>)</p></div>
   <div><img src="flags/gr.svg" width="100"/><p>Greece (<code>GR</code>)</p></div>
-  <div><img src="flags/xx.svg" width="100"/><p>South Georgia and the South Sandwich Islands (<code>GS</code>)</p></div>
+  <div><img src="flags/gs.svg" width="100"/><p>South Georgia and the South Sandwich Islands (<code>GS</code>)</p></div>
   <div><img src="flags/gt.svg" width="100"/><p>Guatemala (<code>GT</code>)</p></div>
   <div><img src="flags/gu.svg" width="100"/><p>Guam (<code>GU</code>)</p></div>
   <div><img src="flags/gw.svg" width="100"/><p>Guinea-Bissau (<code>GW</code>)</p></div>
@@ -232,8 +232,8 @@
   <div><img src="flags/se.svg" width="100"/><p>Sweden (<code>SE</code>)</p></div>
   <div><img src="flags/sg.svg" width="100"/><p>Singapore (<code>SG</code>)</p></div>
   <div><img src="flags/sh-hl.svg" width="100"/><p>Saint Helena (<code>SH-HL</code>)</p></div>
-  <div><img src="flags/xx.svg" width="100"/><p>Ascension Island (<code>SH-AC</code>)</p></div>
-  <div><img src="flags/xx.svg" width="100"/><p>Tristan da Cunha (<code>SH-TA</code>)</p></div>
+  <div><img src="flags/sh-ac.svg" width="100"/><p>Ascension Island (<code>SH-AC</code>)</p></div>
+  <div><img src="flags/sh-ta.svg" width="100"/><p>Tristan da Cunha (<code>SH-TA</code>)</p></div>
   <div><img src="flags/si.svg" width="100"/><p>Slovenia (<code>SI</code>)</p></div>
   <div><img src="flags/sindh.svg" width="100"/><p>Sindh</p></div>
   <div><img src="flags/sj.svg" width="100"/><p>Svalbard and Jan Mayen (<code>SJ</code>)</p></div>
