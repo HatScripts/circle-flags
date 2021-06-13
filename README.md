@@ -1,4 +1,4 @@
-# circle-flags
+# circle-flags <img src="logo.svg" alt="circle-flags animated logo" align="right" />
 
 A collection of circular SVG country flags.
 
