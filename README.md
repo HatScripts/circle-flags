@@ -31,7 +31,7 @@ For example, the following code:
 <img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="48">
 <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
 
-To view all the available flags, check [the gallery](https://hatscripts.github.io/circle-flags/all-flags.html).
+To view all the available flags, check [the gallery](https://hatscripts.github.io/circle-flags/gallery).
 
 ### React
 
