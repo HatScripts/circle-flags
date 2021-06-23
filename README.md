@@ -61,6 +61,28 @@ svgo ./flags --recursive --config=svgo.yml
 
 Then commit the changes, and submit them as a pull request.
 
+### The color palette
+
+Submitted flags should conform to the following color palette.<br>
+Try to match the flag's original colors with the nearest color from the palette.
+
+* `#eeeeee`: white
+* `#acabb1`: gray
+* `#333333`: black
+* `#a2001d`: dark red
+* `#d80027`: red
+* `#ff9811`: orange
+* `#ffda44`: yellow
+* `#6da544`: green
+* `#496e2d`: dark green
+* `#338af3`: light blue
+* `#0052b4`: blue
+
+Special cases:
+* `#002266`: dark blue (only one usage: [<img src="https://hatscripts.github.io/circle-flags/flags/td.svg" width="16"> Chad](https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/td.svg), to differentiate from [<img src="https://hatscripts.github.io/circle-flags/flags/ro.svg" width="16"> Romania](https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/ro.svg))
+* `#4a1f63`: purple (only one usage: [<img src="https://hatscripts.github.io/circle-flags/flags/es-ib.svg" width="16"> Balearic Islands](https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/es-ib.svg))
+* `#751a46`: dark pink (only one usage: [<img src="https://hatscripts.github.io/circle-flags/flags/qa.svg" width="16"> Qatar](https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/qa.svg))
+
 ## License
 
 This project is released under the [MIT license](LICENSE).
