@@ -22,6 +22,24 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="icon" type="image/svg+xml" href="{{ site.baseurl }}/logo.svg">
     <link rel="alternate icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico">
+    <style>
+      #skip-to-content {
+        height: 1px;
+        width: 1px;
+        position: absolute;
+        overflow: hidden;
+        top: -10px;
+      }
+      #skip-to-content:focus {
+        position: fixed;
+        top: 10px;
+        left: 10px;
+        height: auto;
+        width: auto;
+        background: #e19447;
+        outline: thick solid #e19447;
+      }
+    </style>
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
