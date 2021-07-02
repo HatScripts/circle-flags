@@ -40,7 +40,7 @@ If you're using [React](https://reactjs.org), you may want to try the
 
 ### NPM
 
-If you want to install this package as dependency, you can install it from this GitHub repository:
+If you want to install this package as a dependency, you can install it from this GitHub repository:
 
 ```
 npm install --save https://github.com/HatScripts/circle-flags
