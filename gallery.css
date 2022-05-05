@@ -7,3 +7,6 @@
   padding: 1em;
   width: 160px;
 }
+code {
+  white-space: nowrap;
+}
