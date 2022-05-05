@@ -1,3 +1,6 @@
+.project-name > a {
+  color: white;
+}
 .container {
   display: flex;
   flex-wrap: wrap;
