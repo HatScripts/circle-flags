@@ -4,12 +4,14 @@ A collection of circular SVG country flags.
 
 ## Usage
 
-```
+```text
 https://hatscripts.github.io/circle-flags/flags/xx.svg
 ```
+
 (Where `xx` is the [ISO 3166-1 alpha-2 code](https://www.iso.org/obp/ui/#search/code/) of a country).
 
 For example, the following code:
+
 ```html
 <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48">
 <img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="48">
@@ -42,7 +44,7 @@ If you're using [React](https://reactjs.org), you may want to try the
 
 If you want to install this package as a dependency, you can install it from this GitHub repository:
 
-```
+```sh
 npm install --save https://github.com/HatScripts/circle-flags
 ```
 
@@ -63,7 +65,7 @@ Then commit the changes, and submit them as a pull request.
 
 ### The color palette
 
-Submitted flags should conform to the following color palette.<br>
+Submitted flags should conform to the following color palette.<br/>
 Try to match the flag's original colors with the nearest color from the palette.
 
 * `#eeeeee`: white
