@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/HatScripts/circle-flags.git"
   },
+  "scripts": {
+    "gen-square-flags": "scripts/gen-square-flags.sh"
+  },
   "keywords": [
     "svg",
     "country-flags",
