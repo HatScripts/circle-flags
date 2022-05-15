@@ -1,8 +1,8 @@
 #!/bin/sh
 
-# Create copies of all flags with the border radius adjusted to 0%
+# Create copies of all flags without the border radius attribute
 for i in $(find flags/ -type f -name "*.svg") ; do
-    sed "s/border-radius:50%/border-radius:0%/" "$i" > "square-$i";
+    sed 's/ style="border-radius:50%"//' "$i" > "square-$i";
 done
 
 # Also copy over all symlinks to the square-flags directory
