@@ -6,6 +6,7 @@
   <div><img src="flags/ad.svg" width="96"/><p>Andorra (<code>ad</code>)</p></div>
   <div><img src="flags/ae.svg" width="96"/><p>United Arab Emirates (<code>ae</code>)</p></div>
   <div><img src="flags/af.svg" width="96"/><p>Afghanistan (<code>af</code>)</p></div>
+  <div><img src="flags/afar.svg" width="96"/><p>Afar</p></div>
   <div><img src="flags/ag.svg" width="96"/><p>Antigua and Barbuda (<code>ag</code>)</p></div>
   <div><img src="flags/ai.svg" width="96"/><p>Anguilla (<code>ai</code>)</p></div>
   <div><img src="flags/al.svg" width="96"/><p>Albania (<code>al</code>)</p></div>
@@ -50,6 +51,7 @@
   <div><img src="flags/cf.svg" width="96"/><p>Central African Republic (<code>cf</code>)</p></div>
   <div><img src="flags/cg.svg" width="96"/><p>Congo (<code>cg</code>)</p></div>
   <div><img src="flags/ch.svg" width="96"/><p>Switzerland (<code>ch</code>)</p></div>
+  <div><img src="flags/ch-gr.svg" width="96"/><p>Grisons (<code>ch-gr</code>)</p></div>
   <div><img src="flags/ci.svg" width="96"/><p>Ivory Coast (<code>ci</code>)</p></div>
   <div><img src="flags/ck.svg" width="96"/><p>Cook Islands (<code>ck</code>)</p></div>
   <div><img src="flags/cl.svg" width="96"/><p>Chile (<code>cl</code>)</p></div>
@@ -81,15 +83,19 @@
   <div><img src="flags/er.svg" width="96"/><p>Eritrea (<code>er</code>)</p></div>
   <div><img src="flags/es.svg" width="96"/><p>Spain (<code>es</code>)</p></div>
   <div><img src="flags/es-variant.svg" width="96"/><p>Spain</p></div>
-  <div><img src="flags/es-ct.svg" width="96"/><p>Catalonia (<code>es-ct</code>)</p></div>
+  <div><img src="flags/es-ar.svg" width="96"/><p>Aragon (<code>es-ar</code>)</p></div>
   <div><img src="flags/es-ce.svg" width="96"/><p>Ceuta (<code>es</code>)</p></div>
   <div><img src="flags/es-cn.svg" width="96"/><p>Canary Islands (<code>es-cn</code>)</p></div>
+  <div><img src="flags/es-ct.svg" width="96"/><p>Catalonia (<code>es-ct</code>)</p></div>
   <div><img src="flags/es-ga.svg" width="96"/><p>Galicia (<code>es-ga</code>)</p></div>
   <div><img src="flags/es-ib.svg" width="96"/><p>Balearic Islands (<code>es-ib</code>)</p></div>
   <div><img src="flags/es-ml.svg" width="96"/><p>Melilla (<code>es-ml</code>)</p></div>
   <div><img src="flags/es-pv.svg" width="96"/><p>Basque Country (<code>es-pv</code>)</p></div>
   <div><img src="flags/et.svg" width="96"/><p>Ethiopia (<code>et</code>)</p></div>
+  <div><img src="flags/et-or.svg" width="96"/><p>Oromia (<code>et-or</code>)</p></div>
+  <div><img src="flags/et-ti.svg" width="96"/><p>Tigray Region (<code>et-ti</code>)</p></div>
   <div><img src="flags/european_union.svg" width="96"/><p>European Union (<code>eu</code>)</p></div>
+  <div><img src="flags/ewe.svg" width="96"/><p>Ewe</p></div>
   <div><img src="flags/fi.svg" width="96"/><p>Finland (<code>fi</code>)</p></div>
   <div><img src="flags/fj.svg" width="96"/><p>Fiji (<code>fj</code>)</p></div>
   <div><img src="flags/fk.svg" width="96"/><p>Falkland Islands (Malvinas) (<code>fk</code>)</p></div>
@@ -97,8 +103,11 @@
   <div><img src="flags/fo.svg" width="96"/><p>Faroe Islands (<code>fo</code>)</p></div>
   <div><img src="flags/fr.svg" width="96"/><p>France (<code>fr</code>)</p></div>
   <div><img src="flags/fr-20r.svg" width="96"/><p>Corsica (<code>fr-20r</code>)</p></div>
+  <div><img src="flags/fr-bre.svg" width="96"/><p>Brittany (<code>fr-bre</code>)</p></div>
+  <div><img src="flags/fr-cp.svg" width="96"/><p>Clipperton Island (<code>fr-cp</code>)</p></div>
   <div><img src="flags/ga.svg" width="96"/><p>Gabon (<code>ga</code>)</p></div>
   <div><img src="flags/gb.svg" width="96"/><p>United Kingdom (<code>gb</code>)</p></div>
+  <div><img src="flags/gb-con.svg" width="96"/><p>Cornwall (<code>gb-con</code>)</p></div>
   <div><img src="flags/gb-eng.svg" width="96"/><p>England (<code>gb-eng</code>)</p></div>
   <div><img src="flags/gb-nir.svg" width="96"/><p>Northern Ireland (<code>gb-nir</code>)</p></div>
   <div><img src="flags/gb-ork.svg" width="96"/><p>Orkney (<code>gb-ork</code>)</p></div>
@@ -120,6 +129,7 @@
   <div><img src="flags/gs.svg" width="96"/><p>South Georgia and the South Sandwich Islands (<code>gs</code>)</p></div>
   <div><img src="flags/gt.svg" width="96"/><p>Guatemala (<code>gt</code>)</p></div>
   <div><img src="flags/gu.svg" width="96"/><p>Guam (<code>gu</code>)</p></div>
+  <div><img src="flags/guarani.svg" width="96"/><p>Guarani</p></div>
   <div><img src="flags/gw.svg" width="96"/><p>Guinea-Bissau (<code>gw</code>)</p></div>
   <div><img src="flags/gy.svg" width="96"/><p>Guyana (<code>gy</code>)</p></div>
   <div><img src="flags/hausa.svg" width="96"/><p>Hausa</p></div>
@@ -137,6 +147,7 @@
   <div><img src="flags/il.svg" width="96"/><p>Israel (<code>il</code>)</p></div>
   <div><img src="flags/im.svg" width="96"/><p>Isle of Man (<code>im</code>)</p></div>
   <div><img src="flags/in.svg" width="96"/><p>India (<code>in</code>)</p></div>
+  <div><img src="flags/in-as.svg" width="96"/><p>Assam (<code>in-as</code>)</p></div>
   <div><img src="flags/in-gj.svg" width="96"/><p>Gujarat (<code>in-gj</code>)</p></div>
   <div><img src="flags/in-ka.svg" width="96"/><p>Karnataka (<code>in-ka</code>)</p></div>
   <div><img src="flags/in-or.svg" width="96"/><p>Odisha (<code>in-or</code>)</p></div>
@@ -146,18 +157,22 @@
   <div><img src="flags/ir.svg" width="96"/><p>Iran (<code>ir</code>)</p></div>
   <div><img src="flags/is.svg" width="96"/><p>Iceland (<code>is</code>)</p></div>
   <div><img src="flags/it.svg" width="96"/><p>Italy (<code>it</code>)</p></div>
+  <div><img src="flags/it-23.svg" width="96"/><p>Aosta Valley (<code>it-23</code>)</p></div>
   <div><img src="flags/it-82.svg" width="96"/><p>Sicily (<code>it-82</code>)</p></div>
   <div><img src="flags/it-88.svg" width="96"/><p>Sardinia (<code>it-88</code>)</p></div>
   <div><img src="flags/je.svg" width="96"/><p>Jersey (<code>je</code>)</p></div>
   <div><img src="flags/jm.svg" width="96"/><p>Jamaica (<code>jm</code>)</p></div>
   <div><img src="flags/jo.svg" width="96"/><p>Jordan (<code>jo</code>)</p></div>
   <div><img src="flags/jp.svg" width="96"/><p>Japan (<code>jp</code>)</p></div>
+  <div><img src="flags/kanuri.svg" width="96"/><p>Kanuri</p></div>
   <div><img src="flags/ke.svg" width="96"/><p>Kenya (<code>ke</code>)</p></div>
   <div><img src="flags/kg.svg" width="96"/><p>Kyrgyzstan (<code>kg</code>)</p></div>
   <div><img src="flags/kh.svg" width="96"/><p>Cambodia (<code>kh</code>)</p></div>
   <div><img src="flags/ki.svg" width="96"/><p>Kiribati (<code>ki</code>)</p></div>
+  <div><img src="flags/kikuyu.svg" width="96"/><p>Kikuyu</p></div>
   <div><img src="flags/km.svg" width="96"/><p>Comoros (<code>km</code>)</p></div>
   <div><img src="flags/kn.svg" width="96"/><p>Saint Kitts and Nevis (<code>kn</code>)</p></div>
+  <div><img src="flags/kongo.svg" width="96"/><p>Kongo</p></div>
   <div><img src="flags/kp.svg" width="96"/><p>North Korea (<code>kp</code>)</p></div>
   <div><img src="flags/kr.svg" width="96"/><p>South Korea (<code>kr</code>)</p></div>
   <div><img src="flags/kurdistan.svg" width="96"/><p>Kurdistan</p></div>
@@ -215,14 +230,17 @@
   <div><img src="flags/nr.svg" width="96"/><p>Nauru (<code>nr</code>)</p></div>
   <div><img src="flags/nu.svg" width="96"/><p>Niue (<code>nu</code>)</p></div>
   <div><img src="flags/nz.svg" width="96"/><p>New Zealand (<code>nz</code>)</p></div>
+  <div><img src="flags/occitania.svg" width="96"/><p>Occitania</p></div>
   <div><img src="flags/olympics.svg" width="96"/><p>Olympics</p></div>
   <div><img src="flags/om.svg" width="96"/><p>Oman (<code>om</code>)</p></div>
+  <div><img src="flags/otomi.svg" width="96"/><p>Otomi</p></div>
   <div><img src="flags/pa.svg" width="96"/><p>Panama (<code>pa</code>)</p></div>
   <div><img src="flags/pe.svg" width="96"/><p>Peru (<code>pe</code>)</p></div>
   <div><img src="flags/pf.svg" width="96"/><p>French Polynesia (<code>pf</code>)</p></div>
   <div><img src="flags/pg.svg" width="96"/><p>Papua New Guinea (<code>pg</code>)</p></div>
   <div><img src="flags/ph.svg" width="96"/><p>Philippines (<code>ph</code>)</p></div>
   <div><img src="flags/pk.svg" width="96"/><p>Pakistan (<code>pk</code>)</p></div>
+  <div><img src="flags/pk-jk.svg" width="96"/><p>Azad Kashmir (<code>pk-jk</code>)</p></div>
   <div><img src="flags/pk-sd.svg" width="96"/><p>Sindh (<code>pk-sd</code>)</p></div>
   <div><img src="flags/pl.svg" width="96"/><p>Poland (<code>pl</code>)</p></div>
   <div><img src="flags/pm.svg" width="96"/><p>Saint Pierre and Miquelon (<code>pm</code>)</p></div>
@@ -235,13 +253,21 @@
   <div><img src="flags/pw.svg" width="96"/><p>Palau (<code>pw</code>)</p></div>
   <div><img src="flags/py.svg" width="96"/><p>Paraguay (<code>py</code>)</p></div>
   <div><img src="flags/qa.svg" width="96"/><p>Qatar (<code>qa</code>)</p></div>
+  <div><img src="flags/quechua.svg" width="96"/><p>Quechua</p></div>
   <div><img src="flags/re.svg" width="96"/><p>Réunion (<code>re</code>)</p></div>
   <div><img src="flags/ro.svg" width="96"/><p>Romania (<code>ro</code>)</p></div>
   <div><img src="flags/rs.svg" width="96"/><p>Serbia (<code>rs</code>)</p></div>
   <div><img src="flags/ru.svg" width="96"/><p>Russia (<code>ru</code>)</p></div>
+  <div><img src="flags/ru-ba.svg" width="96"/><p>Bashkortostan (<code>ru-ba</code>)</p></div>
+  <div><img src="flags/ru-ce.svg" width="96"/><p>Chechnya (<code>ru-ce</code>)</p></div>
+  <div><img src="flags/ru-cu.svg" width="96"/><p>Chuvashia (<code>ru-cu</code>)</p></div>
+  <div><img src="flags/ru-da.svg" width="96"/><p>Dagestan (<code>ru-da</code>)</p></div>
+  <div><img src="flags/ru-ko.svg" width="96"/><p>Komi Republic (<code>ru-ko</code>)</p></div>
   <div><img src="flags/ru-ta.svg" width="96"/><p>Tatarstan (<code>ru-ta</code>)</p></div>
+  <div><img src="flags/ru-ud.svg" width="96"/><p>Udmurtia (<code>ru-ud</code>)</p></div>
   <div><img src="flags/rw.svg" width="96"/><p>Rwanda (<code>rw</code>)</p></div>
   <div><img src="flags/sa.svg" width="96"/><p>Saudi Arabia (<code>sa</code>)</p></div>
+  <div><img src="flags/sami.svg" width="96"/><p>Sami</p></div>
   <div><img src="flags/sb.svg" width="96"/><p>Solomon Islands (<code>sb</code>)</p></div>
   <div><img src="flags/sc.svg" width="96"/><p>Seychelles (<code>sc</code>)</p></div>
   <div><img src="flags/sd.svg" width="96"/><p>Sudan (<code>sd</code>)</p></div>
@@ -302,10 +328,12 @@
   <div><img src="flags/vn.svg" width="96"/><p>Vietnam (<code>vn</code>)</p></div>
   <div><img src="flags/vu.svg" width="96"/><p>Vanuatu (<code>vu</code>)</p></div>
   <div><img src="flags/wf.svg" width="96"/><p>Wallis and Futuna (<code>wf</code>)</p></div>
+  <div><img src="flags/wiphala.svg" width="96"/><p>Wiphala</p></div>
   <div><img src="flags/ws.svg" width="96"/><p>Samoa (<code>ws</code>)</p></div>
   <div><img src="flags/xk.svg" width="96"/><p>Kosovo (<code>xk</code>)</p></div>
   <div><img src="flags/xx.svg" width="96"/><p>&lt;Placeholder&gt;</p></div>
   <div><img src="flags/ye.svg" width="96"/><p>Yemen (<code>ye</code>)</p></div>
+  <div><img src="flags/yorubaland.svg" width="96"/><p>Yorubaland</p></div>
   <div><img src="flags/yt.svg" width="96"/><p>Mayotte (<code>yt</code>)</p></div>
   <div><img src="flags/za.svg" width="96"/><p>South Africa (<code>za</code>)</p></div>
   <div><img src="flags/zm.svg" width="96"/><p>Zambia (<code>zm</code>)</p></div>
