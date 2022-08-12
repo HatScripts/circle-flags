@@ -3,10 +3,6 @@
     <clipPath id="flag-clip">
       <rect y="0" x="9.99" height="48" width="32" />
     </clipPath>
-    <pattern id="flag-pattern" x="2" width="16" height="48" patternUnits="userSpaceOnUse">
-      <rect x="0" y="0" width="8" height="48" fill="#B71C1C" />
-      <rect x="8" y="0" width="8" height="48" fill="#EF5350" />
-    </pattern>
   </defs>
 
   <g>
@@ -17,7 +13,7 @@
             <g id="flag">
               <path
                 d="m-6 10a4 4 0 018 0a4 4 0 008 0a4 4 0 018 0a4 4 0 008 0a4 4 0 018 0a4 4 0 008 0v40a4 4 0 01-8 0a4 4 0 00-8 0a4 4 0 01-8 0a4 4 0 00-8 0a4 4 0 01-8 0a4 4 0 00-8 0"
-                fill="url(#flag-pattern)" />
+                fill="#EF5350" />
             </g>
             <use transform="translate(-48 0)" href="#flag" />
           </g>
