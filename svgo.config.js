@@ -7,27 +7,17 @@ module.exports = {
       active: false
     },
     {
-      name: 'removeRasterImages',
-      active: true
-    },
-    {
-      name: 'sortAttrs',
-      active: true
-    },
-    {
       name: 'removeAttrs',
       params: {
         attrs: '(color|font|opacity|paint|stroke|text).*'
       }
     },
-    {
-      name: 'removeStyleElement',
-      active: true
-    },
-    {
-      name: 'removeScriptElement',
-      active: true
-    },
+    'convertStyleToAttrs',
+    'cleanupListOfValues',
+    'removeRasterImages',
+    'sortAttrs',
+    'removeStyleElement',
+    'removeScriptElement',
     'removeDoctype',
     'removeXMLProcInst',
     'removeComments',
