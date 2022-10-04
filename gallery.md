@@ -328,7 +328,19 @@
   <div><img src="flags/ug.svg" width="96"/><p>Uganda (<code>ug</code>)</p></div>
   <div><img src="flags/united_nations.svg" width="96"/><p>United Nations (<code>un</code>)</p></div>
   <div><img src="flags/us.svg" width="96"/><p>United States of America (<code>us</code>)</p></div>
+  <div><img src="flags/us-ak.svg" width="96"/><p>Alaska (<code>us-ak</code>)</p></div>
+  <div><img src="flags/us-al.svg" width="96"/><p>Alabama (<code>us-al</code>)</p></div>
+  <div><img src="flags/us-ar.svg" width="96"/><p>Arkansas (<code>us-ar</code>)</p></div>
+  <div><img src="flags/us-az.svg" width="96"/><p>Arizona (<code>us-az</code>)</p></div>
+  <div><img src="flags/us-co.svg" width="96"/><p>Colorado (<code>us-co</code>)</p></div>
+  <div><img src="flags/us-fl.svg" width="96"/><p>Florida (<code>us-fl</code>)</p></div>
+  <div><img src="flags/us-ga.svg" width="96"/><p>Georgia (<code>us-ga</code>)</p></div>
   <div><img src="flags/us-hi.svg" width="96"/><p>Hawaii (<code>us-hi</code>)</p></div>
+  <div><img src="flags/us-in.svg" width="96"/><p>Indiana (<code>us-in</code>)</p></div>
+  <div><img src="flags/us-mo.svg" width="96"/><p>Missouri (<code>us-mo</code>)</p></div>
+  <div><img src="flags/us-ms.svg" width="96"/><p>Mississippi (<code>us-ms</code>)</p></div>
+  <div><img src="flags/us-nm.svg" width="96"/><p>New Mexico (<code>us-nm</code>)</p></div>
+  <div><img src="flags/us-tx.svg" width="96"/><p>Texas (<code>us-tx</code>)</p></div>
   <div><img src="flags/um.svg" width="96"/><p>United States Minor Outlying Islands (<code>um</code>)</p></div>
   <div><img src="flags/uy.svg" width="96"/><p>Uruguay (<code>uy</code>)</p></div>
   <div><img src="flags/uz.svg" width="96"/><p>Uzbekistan (<code>uz</code>)</p></div>
