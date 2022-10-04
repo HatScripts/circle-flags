@@ -160,6 +160,7 @@
   <div><img src="flags/in-gj.svg" width="96"/><p>Gujarat (<code>in-gj</code>)</p></div>
   <div><img src="flags/in-ka.svg" width="96"/><p>Karnataka (<code>in-ka</code>)</p></div>
   <div><img src="flags/in-or.svg" width="96"/><p>Odisha (<code>in-or</code>)</p></div>
+  <div><img src="flags/in-tg.svg" width="96"/><p>Telangana (<code>in-tg</code>)</p></div>
   <div><img src="flags/in-tn.svg" width="96"/><p>Tamil Nadu (<code>in-tn</code>)</p></div>
   <div><img src="flags/io.svg" width="96"/><p>British Indian Ocean Territory (<code>io</code>)</p></div>
   <div><img src="flags/iq.svg" width="96"/><p>Iraq (<code>iq</code>)</p></div>
