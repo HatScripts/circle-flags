@@ -332,14 +332,19 @@
   <div><img src="flags/us-al.svg" width="96"/><p>Alabama (<code>us-al</code>)</p></div>
   <div><img src="flags/us-ar.svg" width="96"/><p>Arkansas (<code>us-ar</code>)</p></div>
   <div><img src="flags/us-az.svg" width="96"/><p>Arizona (<code>us-az</code>)</p></div>
+  <div><img src="flags/us-ca.svg" width="96"/><p>California (<code>us-ca</code>)</p></div>
   <div><img src="flags/us-co.svg" width="96"/><p>Colorado (<code>us-co</code>)</p></div>
+  <div><img src="flags/us-dc.svg" width="96"/><p>District of Columbia (<code>us-dc</code>)</p></div>
   <div><img src="flags/us-fl.svg" width="96"/><p>Florida (<code>us-fl</code>)</p></div>
   <div><img src="flags/us-ga.svg" width="96"/><p>Georgia (<code>us-ga</code>)</p></div>
   <div><img src="flags/us-hi.svg" width="96"/><p>Hawaii (<code>us-hi</code>)</p></div>
   <div><img src="flags/us-in.svg" width="96"/><p>Indiana (<code>us-in</code>)</p></div>
   <div><img src="flags/us-mo.svg" width="96"/><p>Missouri (<code>us-mo</code>)</p></div>
   <div><img src="flags/us-ms.svg" width="96"/><p>Mississippi (<code>us-ms</code>)</p></div>
+  <div><img src="flags/us-nc.svg" width="96"/><p>North Carolina (<code>us-nc</code>)</p></div>
   <div><img src="flags/us-nm.svg" width="96"/><p>New Mexico (<code>us-nm</code>)</p></div>
+  <div><img src="flags/us-ri.svg" width="96"/><p>Rhode Island (<code>us-ri</code>)</p></div>
+  <div><img src="flags/us-tn.svg" width="96"/><p>Tennessee (<code>us-tn</code>)</p></div>
   <div><img src="flags/us-tx.svg" width="96"/><p>Texas (<code>us-tx</code>)</p></div>
   <div><img src="flags/um.svg" width="96"/><p>United States Minor Outlying Islands (<code>um</code>)</p></div>
   <div><img src="flags/uy.svg" width="96"/><p>Uruguay (<code>uy</code>)</p></div>
