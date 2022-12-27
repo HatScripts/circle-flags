@@ -50,8 +50,7 @@ npm install --save https://github.com/HatScripts/circle-flags
 
 ## Contributing
 
-To contribute, you need to have [svgo](https://github.com/svg/svgo) installed
-(version 2.3.1 or newer).
+To contribute, you need to have the latest version of [svgo](https://github.com/svg/svgo) installed.
 
 First, edit the relevant SVG files in the `flags/` directory.
 
