@@ -48,6 +48,11 @@ If you want to install this package as a dependency, you can install it from thi
 npm install --save https://github.com/HatScripts/circle-flags
 ```
 
+### Userscripts
+
+- [Google Translate: Filter & Flags](https://github.com/HatScripts/google-translate-filter-and-flags) - Filters languages and shows country flags on Google Translate
+- [Wiktionary: Filter & Flags](https://github.com/HatScripts/wiktionary-filter-and-flags) - Filters languages and shows country flags on Wiktionary 
+
 ## Contributing
 
 To contribute, you need to have the latest version of [svgo](https://github.com/svg/svgo) installed.
