@@ -160,6 +160,7 @@
   <div><img src="flags/in-as.svg" width="96"/><p>Assam (<code>in-as</code>)</p></div>
   <div><img src="flags/in-gj.svg" width="96"/><p>Gujarat (<code>in-gj</code>)</p></div>
   <div><img src="flags/in-ka.svg" width="96"/><p>Karnataka (<code>in-ka</code>)</p></div>
+  <div><img src="flags/in-mz.svg" width="96"/><p>Mizoram (<code>in-mz</code>)</p></div>
   <div><img src="flags/in-or.svg" width="96"/><p>Odisha (<code>in-or</code>)</p></div>
   <div><img src="flags/in-tg.svg" width="96"/><p>Telangana (<code>in-tg</code>)</p></div>
   <div><img src="flags/in-tn.svg" width="96"/><p>Tamil Nadu (<code>in-tn</code>)</p></div>
@@ -211,7 +212,6 @@
   <div><img src="flags/mf.svg" width="96"/><p>Saint-Martin (<code>mf</code>)</p></div>
   <div><img src="flags/mg.svg" width="96"/><p>Madagascar (<code>mg</code>)</p></div>
   <div><img src="flags/mh.svg" width="96"/><p>Marshall Islands (<code>mh</code>)</p></div>
-  <div><img src="flags/mizoram.svg" width="96"/><p>Mizoram</p></div>
   <div><img src="flags/mk.svg" width="96"/><p>North Macedonia (<code>mk</code>)</p></div>
   <div><img src="flags/ml.svg" width="96"/><p>Mali (<code>ml</code>)</p></div>
   <div><img src="flags/mm.svg" width="96"/><p>Myanmar (<code>mm</code>)</p></div>
