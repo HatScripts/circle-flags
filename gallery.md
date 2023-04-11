@@ -160,6 +160,7 @@
   <div><img src="flags/in-as.svg" width="96"/><p>Assam (<code>in-as</code>)</p></div>
   <div><img src="flags/in-gj.svg" width="96"/><p>Gujarat (<code>in-gj</code>)</p></div>
   <div><img src="flags/in-ka.svg" width="96"/><p>Karnataka (<code>in-ka</code>)</p></div>
+  <div><img src="flags/in-mn.svg" width="96"/><p>Manipur (<code>in-mn</code>)</p></div>
   <div><img src="flags/in-mz.svg" width="96"/><p>Mizoram (<code>in-mz</code>)</p></div>
   <div><img src="flags/in-or.svg" width="96"/><p>Odisha (<code>in-or</code>)</p></div>
   <div><img src="flags/in-tg.svg" width="96"/><p>Telangana (<code>in-tg</code>)</p></div>
@@ -204,7 +205,6 @@
   <div><img src="flags/ly.svg" width="96"/><p>Libya (<code>ly</code>)</p></div>
   <div><img src="flags/ma.svg" width="96"/><p>Morocco (<code>ma</code>)</p></div>
   <div><img src="flags/malayali.svg" width="96"/><p>Malayali</p></div>
-  <div><img src="flags/manipur.svg" width="96"/><p>Manipur</p></div>
   <div><img src="flags/maori.svg" width="96"/><p>Maori</p></div>
   <div><img src="flags/mc.svg" width="96"/><p>Monaco (<code>mc</code>)</p></div>
   <div><img src="flags/md.svg" width="96"/><p>Moldova (<code>md</code>)</p></div>
