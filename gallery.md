@@ -167,6 +167,7 @@
   <div><img src="flags/in-tn.svg" width="96"/><p>Tamil Nadu (<code>in-tn</code>)</p></div>
   <div><img src="flags/io.svg" width="96"/><p>British Indian Ocean Territory (<code>io</code>)</p></div>
   <div><img src="flags/iq.svg" width="96"/><p>Iraq (<code>iq</code>)</p></div>
+  <div><img src="flags/iq-kr.svg" width="96"/><p>Kurdistan (<code>iq-kr</code>)</p></div>
   <div><img src="flags/ir.svg" width="96"/><p>Iran (<code>ir</code>)</p></div>
   <div><img src="flags/is.svg" width="96"/><p>Iceland (<code>is</code>)</p></div>
   <div><img src="flags/it.svg" width="96"/><p>Italy (<code>it</code>)</p></div>
@@ -188,7 +189,6 @@
   <div><img src="flags/kongo.svg" width="96"/><p>Kongo</p></div>
   <div><img src="flags/kp.svg" width="96"/><p>North Korea (<code>kp</code>)</p></div>
   <div><img src="flags/kr.svg" width="96"/><p>South Korea (<code>kr</code>)</p></div>
-  <div><img src="flags/kurdistan.svg" width="96"/><p>Kurdistan</p></div>
   <div><img src="flags/kw.svg" width="96"/><p>Kuwait (<code>kw</code>)</p></div>
   <div><img src="flags/ky.svg" width="96"/><p>Cayman Islands (<code>ky</code>)</p></div>
   <div><img src="flags/kz.svg" width="96"/><p>Kazakhstan (<code>kz</code>)</p></div>
