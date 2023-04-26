@@ -160,11 +160,14 @@
   <div><img src="flags/in-as.svg" width="96"/><p>Assam (<code>in-as</code>)</p></div>
   <div><img src="flags/in-gj.svg" width="96"/><p>Gujarat (<code>in-gj</code>)</p></div>
   <div><img src="flags/in-ka.svg" width="96"/><p>Karnataka (<code>in-ka</code>)</p></div>
+  <div><img src="flags/in-mn.svg" width="96"/><p>Manipur (<code>in-mn</code>)</p></div>
+  <div><img src="flags/in-mz.svg" width="96"/><p>Mizoram (<code>in-mz</code>)</p></div>
   <div><img src="flags/in-or.svg" width="96"/><p>Odisha (<code>in-or</code>)</p></div>
   <div><img src="flags/in-tg.svg" width="96"/><p>Telangana (<code>in-tg</code>)</p></div>
   <div><img src="flags/in-tn.svg" width="96"/><p>Tamil Nadu (<code>in-tn</code>)</p></div>
   <div><img src="flags/io.svg" width="96"/><p>British Indian Ocean Territory (<code>io</code>)</p></div>
   <div><img src="flags/iq.svg" width="96"/><p>Iraq (<code>iq</code>)</p></div>
+  <div><img src="flags/iq-kr.svg" width="96"/><p>Kurdistan (<code>iq-kr</code>)</p></div>
   <div><img src="flags/ir.svg" width="96"/><p>Iran (<code>ir</code>)</p></div>
   <div><img src="flags/is.svg" width="96"/><p>Iceland (<code>is</code>)</p></div>
   <div><img src="flags/it.svg" width="96"/><p>Italy (<code>it</code>)</p></div>
@@ -186,7 +189,6 @@
   <div><img src="flags/kongo.svg" width="96"/><p>Kongo</p></div>
   <div><img src="flags/kp.svg" width="96"/><p>North Korea (<code>kp</code>)</p></div>
   <div><img src="flags/kr.svg" width="96"/><p>South Korea (<code>kr</code>)</p></div>
-  <div><img src="flags/kurdistan.svg" width="96"/><p>Kurdistan</p></div>
   <div><img src="flags/kw.svg" width="96"/><p>Kuwait (<code>kw</code>)</p></div>
   <div><img src="flags/ky.svg" width="96"/><p>Cayman Islands (<code>ky</code>)</p></div>
   <div><img src="flags/kz.svg" width="96"/><p>Kazakhstan (<code>kz</code>)</p></div>
@@ -203,7 +205,6 @@
   <div><img src="flags/ly.svg" width="96"/><p>Libya (<code>ly</code>)</p></div>
   <div><img src="flags/ma.svg" width="96"/><p>Morocco (<code>ma</code>)</p></div>
   <div><img src="flags/malayali.svg" width="96"/><p>Malayali</p></div>
-  <div><img src="flags/manipur.svg" width="96"/><p>Manipur</p></div>
   <div><img src="flags/maori.svg" width="96"/><p>Maori</p></div>
   <div><img src="flags/mc.svg" width="96"/><p>Monaco (<code>mc</code>)</p></div>
   <div><img src="flags/md.svg" width="96"/><p>Moldova (<code>md</code>)</p></div>
@@ -211,7 +212,6 @@
   <div><img src="flags/mf.svg" width="96"/><p>Saint-Martin (<code>mf</code>)</p></div>
   <div><img src="flags/mg.svg" width="96"/><p>Madagascar (<code>mg</code>)</p></div>
   <div><img src="flags/mh.svg" width="96"/><p>Marshall Islands (<code>mh</code>)</p></div>
-  <div><img src="flags/mizoram.svg" width="96"/><p>Mizoram</p></div>
   <div><img src="flags/mk.svg" width="96"/><p>North Macedonia (<code>mk</code>)</p></div>
   <div><img src="flags/ml.svg" width="96"/><p>Mali (<code>ml</code>)</p></div>
   <div><img src="flags/mm.svg" width="96"/><p>Myanmar (<code>mm</code>)</p></div>
