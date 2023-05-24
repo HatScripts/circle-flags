@@ -276,7 +276,9 @@
   <div><img src="flags/ru-ce.svg" width="96"/><p>Chechnya (<code>ru-ce</code>)</p></div>
   <div><img src="flags/ru-cu.svg" width="96"/><p>Chuvashia (<code>ru-cu</code>)</p></div>
   <div><img src="flags/ru-da.svg" width="96"/><p>Dagestan (<code>ru-da</code>)</p></div>
+  <div><img src="flags/ru-dpr.svg" width="96"/><p>Donetsk People's Republic (<code>ru-dpr</code>)</p></div>
   <div><img src="flags/ru-ko.svg" width="96"/><p>Komi Republic (<code>ru-ko</code>)</p></div>
+  <div><img src="flags/ru-lpr.svg" width="96"/><p>Luhansk People's Republic (<code>ru-lpr</code>)</p></div>
   <div><img src="flags/ru-ta.svg" width="96"/><p>Tatarstan (<code>ru-ta</code>)</p></div>
   <div><img src="flags/ru-ud.svg" width="96"/><p>Udmurtia (<code>ru-ud</code>)</p></div>
   <div><img src="flags/rw.svg" width="96"/><p>Rwanda (<code>rw</code>)</p></div>
