@@ -34,6 +34,7 @@
   <div><img src="flags/bb.svg" width="96"/><p>Barbados (<code>bb</code>)</p></div>
   <div><img src="flags/bd.svg" width="96"/><p>Bangladesh (<code>bd</code>)</p></div>
   <div><img src="flags/be.svg" width="96"/><p>Belgium (<code>be</code>)</p></div>
+  <div><img src="flags/benelux.svg" width="96"/><p>Benelux</p></div>
   <div><img src="flags/bf.svg" width="96"/><p>Burkina Faso (<code>bf</code>)</p></div>
   <div><img src="flags/bg.svg" width="96"/><p>Bulgaria (<code>bg</code>)</p></div>
   <div><img src="flags/bh.svg" width="96"/><p>Bahrain (<code>bh</code>)</p></div>
