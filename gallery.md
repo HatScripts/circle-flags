@@ -206,6 +206,7 @@
   <div><img src="flags/ma.svg" width="96"/><p>Morocco (<code>ma</code>)</p></div>
   <div><img src="flags/malayali.svg" width="96"/><p>Malayali</p></div>
   <div><img src="flags/maori.svg" width="96"/><p>Maori</p></div>
+  <div><img src="flags/mars.svg" width="96"/><p>Mars (<code>ma</code>)</p></div>
   <div><img src="flags/mc.svg" width="96"/><p>Monaco (<code>mc</code>)</p></div>
   <div><img src="flags/md.svg" width="96"/><p>Moldova (<code>md</code>)</p></div>
   <div><img src="flags/me.svg" width="96"/><p>Montenegro (<code>me</code>)</p></div>
