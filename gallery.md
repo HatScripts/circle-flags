@@ -55,6 +55,7 @@
   <div><img src="flags/bz.svg" width="96"/><p>Belize (<code>bz</code>)</p></div>
   <div><img src="flags/ca.svg" width="96"/><p>Canada (<code>ca</code>)</p></div>
   <div><img src="flags/ca-bc.svg" width="96"/><p>British Columbia (<code>ca-bc</code>)</p></div>
+  <div><img src="flags/ca-qc.svg" width="96"/><p>Quebec (<code>ca-qc</code>)</p></div>
   <div><img src="flags/cc.svg" width="96"/><p>Cocos (Keeling) Islands (<code>cc</code>)</p></div>
   <div><img src="flags/cd.svg" width="96"/><p>Congo, Democratic Republic of the (<code>cd</code>)</p></div>
   <div><img src="flags/cf.svg" width="96"/><p>Central African Republic (<code>cf</code>)</p></div>
