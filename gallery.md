@@ -368,6 +368,7 @@
   <div><img src="flags/ye.svg" width="96"/><p>Yemen (<code>ye</code>)</p></div>
   <div><img src="flags/yorubaland.svg" width="96"/><p>Yorubaland</p></div>
   <div><img src="flags/yt.svg" width="96"/><p>Mayotte (<code>yt</code>)</p></div>
+  <div><img src="flags/yu.svg" width="96"/><p>Yugoslavia (<code>yu</code>)</p></div>
   <div><img src="flags/za.svg" width="96"/><p>South Africa (<code>za</code>)</p></div>
   <div><img src="flags/zm.svg" width="96"/><p>Zambia (<code>zm</code>)</p></div>
   <div><img src="flags/zw.svg" width="96"/><p>Zimbabwe (<code>zw</code>)</p></div>
