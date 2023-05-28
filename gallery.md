@@ -55,6 +55,7 @@
   <div><img src="flags/bz.svg" width="96"/><p>Belize (<code>bz</code>)</p></div>
   <div><img src="flags/ca.svg" width="96"/><p>Canada (<code>ca</code>)</p></div>
   <div><img src="flags/ca-bc.svg" width="96"/><p>British Columbia (<code>ca-bc</code>)</p></div>
+  <div><img src="flags/ca-qc.svg" width="96"/><p>Quebec (<code>ca-qc</code>)</p></div>
   <div><img src="flags/cc.svg" width="96"/><p>Cocos (Keeling) Islands (<code>cc</code>)</p></div>
   <div><img src="flags/cd.svg" width="96"/><p>Congo, Democratic Republic of the (<code>cd</code>)</p></div>
   <div><img src="flags/cf.svg" width="96"/><p>Central African Republic (<code>cf</code>)</p></div>
@@ -223,6 +224,7 @@
   <div><img src="flags/ma.svg" width="96"/><p>Morocco (<code>ma</code>)</p></div>
   <div><img src="flags/malayali.svg" width="96"/><p>Malayali</p></div>
   <div><img src="flags/maori.svg" width="96"/><p>Maori</p></div>
+  <div><img src="flags/mars.svg" width="96"/><p>Mars (<code>ma</code>)</p></div>
   <div><img src="flags/mc.svg" width="96"/><p>Monaco (<code>mc</code>)</p></div>
   <div><img src="flags/md.svg" width="96"/><p>Moldova (<code>md</code>)</p></div>
   <div><img src="flags/me.svg" width="96"/><p>Montenegro (<code>me</code>)</p></div>
@@ -292,7 +294,9 @@
   <div><img src="flags/ru-ce.svg" width="96"/><p>Chechnya (<code>ru-ce</code>)</p></div>
   <div><img src="flags/ru-cu.svg" width="96"/><p>Chuvashia (<code>ru-cu</code>)</p></div>
   <div><img src="flags/ru-da.svg" width="96"/><p>Dagestan (<code>ru-da</code>)</p></div>
+  <div><img src="flags/ru-dpr.svg" width="96"/><p>Donetsk People's Republic (<code>ru-dpr</code>)</p></div>
   <div><img src="flags/ru-ko.svg" width="96"/><p>Komi Republic (<code>ru-ko</code>)</p></div>
+  <div><img src="flags/ru-lpr.svg" width="96"/><p>Luhansk People's Republic (<code>ru-lpr</code>)</p></div>
   <div><img src="flags/ru-ta.svg" width="96"/><p>Tatarstan (<code>ru-ta</code>)</p></div>
   <div><img src="flags/ru-ud.svg" width="96"/><p>Udmurtia (<code>ru-ud</code>)</p></div>
   <div><img src="flags/rw.svg" width="96"/><p>Rwanda (<code>rw</code>)</p></div>
