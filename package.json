@@ -33,5 +33,11 @@
   "bugs": {
     "url": "https://github.com/HatScripts/circle-flags/issues"
   },
-  "homepage": "https://github.com/HatScripts/circle-flags#readme"
+  "homepage": "https://github.com/HatScripts/circle-flags#readme",
+  "devDependencies": {
+    "svgo": "^3.0.2"
+  },
+  "scripts": {
+    "svgo": "node_modules/.bin/svgo ./flags --recursive --config=svgo.config.js"
+  }
 }
