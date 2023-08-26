@@ -172,26 +172,26 @@
   <div><img src="flags/ir.svg" width="96"/><p>Iran (<code>ir</code>)</p></div>
   <div><img src="flags/is.svg" width="96"/><p>Iceland (<code>is</code>)</p></div>
   <div><img src="flags/it.svg" width="96"/><p>Italy (<code>it</code>)</p></div>
-  <div><img src="flags/it-21.svg" width="96"/><p>Piemonte (<code>it-21</code>)</p></div>
-  <div><img src="flags/it-23.svg" width="96"/><p>Valle d'Aosta (<code>it-23</code>)</p></div>
-  <div><img src="flags/it-25.svg" width="96"/><p>Lombardia (<code>it-25</code>)</p></div>
+  <div><img src="flags/it-21.svg" width="96"/><p>Piedmont (<code>it-21</code>)</p></div>
+  <div><img src="flags/it-23.svg" width="96"/><p>Aosta Valley (<code>it-23</code>)</p></div>
+  <div><img src="flags/it-25.svg" width="96"/><p>Lombardy (<code>it-25</code>)</p></div>
   <div><img src="flags/it-32.svg" width="96"/><p>Trentino-Alto Adige (<code>it-32</code>)</p></div>
   <div><img src="flags/it-34.svg" width="96"/><p>Veneto (<code>it-34</code>)</p></div>
-  <div><img src="flags/it-36.svg" width="96"/><p>Friuli-Venezia Giulia (<code>it-36</code>)</p></div>
+  <div><img src="flags/it-36.svg" width="96"/><p>Friuli Venezia Giulia (<code>it-36</code>)</p></div>
   <div><img src="flags/it-42.svg" width="96"/><p>Liguria (<code>it-42</code>)</p></div>
   <div><img src="flags/it-45.svg" width="96"/><p>Emilia-Romagna (<code>it-45</code>)</p></div>
-  <div><img src="flags/it-52.svg" width="96"/><p>Toscana (<code>it-52</code>)</p></div>
+  <div><img src="flags/it-52.svg" width="96"/><p>Tuscany (<code>it-52</code>)</p></div>
   <div><img src="flags/it-55.svg" width="96"/><p>Umbria (<code>it-55</code>)</p></div>
   <div><img src="flags/it-57.svg" width="96"/><p>Marche (<code>it-57</code>)</p></div>
   <div><img src="flags/it-62.svg" width="96"/><p>Lazio (<code>it-62</code>)</p></div>
   <div><img src="flags/it-65.svg" width="96"/><p>Abruzzo (<code>it-65</code>)</p></div>
   <div><img src="flags/it-67.svg" width="96"/><p>Molise (<code>it-67</code>)</p></div>
   <div><img src="flags/it-72.svg" width="96"/><p>Campania (<code>it-72</code>)</p></div>
-  <div><img src="flags/it-75.svg" width="96"/><p>Puglia (<code>it-75</code>)</p></div>
+  <div><img src="flags/it-75.svg" width="96"/><p>Apulia (<code>it-75</code>)</p></div>
   <div><img src="flags/it-77.svg" width="96"/><p>Basilicata (<code>it-77</code>)</p></div>
   <div><img src="flags/it-78.svg" width="96"/><p>Calabria (<code>it-78</code>)</p></div>
-  <div><img src="flags/it-82.svg" width="96"/><p>Sicilia (<code>it-82</code>)</p></div>
-  <div><img src="flags/it-88.svg" width="96"/><p>Sardegna (<code>it-88</code>)</p></div>
+  <div><img src="flags/it-82.svg" width="96"/><p>Sicily (<code>it-82</code>)</p></div>
+  <div><img src="flags/it-88.svg" width="96"/><p>Sardinia (<code>it-88</code>)</p></div>
   <div><img src="flags/je.svg" width="96"/><p>Jersey (<code>je</code>)</p></div>
   <div><img src="flags/jm.svg" width="96"/><p>Jamaica (<code>jm</code>)</p></div>
   <div><img src="flags/jo.svg" width="96"/><p>Jordan (<code>jo</code>)</p></div>
