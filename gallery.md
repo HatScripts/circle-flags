@@ -6,7 +6,6 @@
   <div><img src="flags/ad.svg" width="96"/><p>Andorra (<code>ad</code>)</p></div>
   <div><img src="flags/ae.svg" width="96"/><p>United Arab Emirates (<code>ae</code>)</p></div>
   <div><img src="flags/af.svg" width="96"/><p>Afghanistan (<code>af</code>)</p></div>
-  <div><img src="flags/afar.svg" width="96"/><p>Afar</p></div>
   <div><img src="flags/ag.svg" width="96"/><p>Antigua and Barbuda (<code>ag</code>)</p></div>
   <div><img src="flags/ai.svg" width="96"/><p>Anguilla (<code>ai</code>)</p></div>
   <div><img src="flags/al.svg" width="96"/><p>Albania (<code>al</code>)</p></div>
@@ -103,8 +102,17 @@
   <div><img src="flags/es-ml.svg" width="96"/><p>Melilla (<code>es-ml</code>)</p></div>
   <div><img src="flags/es-pv.svg" width="96"/><p>Basque Country (<code>es-pv</code>)</p></div>
   <div><img src="flags/et.svg" width="96"/><p>Ethiopia (<code>et</code>)</p></div>
+  <div><img src="flags/et-af.svg" width="96"/><p>Afar (<code>et-af</code>)</p></div>
+  <div><img src="flags/et-am.svg" width="96"/><p>Amhara (<code>et-am</code>)</p></div>
+  <div><img src="flags/et-be.svg" width="96"/><p>Benishangul-Gumuz (<code>et-be</code>)</p></div>
+  <div><img src="flags/et-ga.svg" width="96"/><p>Gambela (<code>et-ga</code>)</p></div>
+  <div><img src="flags/et-ha.svg" width="96"/><p>Harari (<code>et-ha</code>)</p></div>
   <div><img src="flags/et-or.svg" width="96"/><p>Oromia (<code>et-or</code>)</p></div>
-  <div><img src="flags/et-ti.svg" width="96"/><p>Tigray Region (<code>et-ti</code>)</p></div>
+  <div><img src="flags/et-si.svg" width="96"/><p>Sidama (<code>et-si</code>)</p></div>
+  <div><img src="flags/et-sn.svg" width="96"/><p>Southern Nations, Nationalities, and Peoples' Region (<code>et-sn</code>)</p></div>
+  <div><img src="flags/et-so.svg" width="96"/><p>Somali (<code>et-so</code>)</p></div>
+  <div><img src="flags/et-sw.svg" width="96"/><p>South West Region (<code>et-sw</code>)</p></div>
+  <div><img src="flags/et-ti.svg" width="96"/><p>Tigray (<code>et-ti</code>)</p></div>
   <div><img src="flags/european_union.svg" width="96"/><p>European Union (<code>eu</code>)</p></div>
   <div><img src="flags/ewe.svg" width="96"/><p>Ewe</p></div>
   <div><img src="flags/fi.svg" width="96"/><p>Finland (<code>fi</code>)</p></div>
