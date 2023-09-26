@@ -18,6 +18,7 @@
   <div><img src="flags/at.svg" width="96"/><p>Austria (<code>at</code>)</p></div>
   <div><img src="flags/au.svg" width="96"/><p>Australia (<code>au</code>)</p></div>
   <div><img src="flags/au-aboriginal.svg" width="96"/><p>Australian Aboriginal</p></div>
+  <div><img src="flags/au-torres_strait_islands.svg" width="96"/><p>Torres Strait Islands</p></div>
   <div><img src="flags/au-act.svg" width="96"/><p>Australian Capital Territory (<code>au-act</code>)</p></div>
   <div><img src="flags/au-nsw.svg" width="96"/><p>New South Wales (<code>au-nsw</code>)</p></div>
   <div><img src="flags/au-nt.svg" width="96"/><p>Northern Territory (<code>au-nt</code>)</p></div>
@@ -347,7 +348,6 @@
   <div><img src="flags/tm.svg" width="96"/><p>Turkmenistan (<code>tm</code>)</p></div>
   <div><img src="flags/tn.svg" width="96"/><p>Tunisia (<code>tn</code>)</p></div>
   <div><img src="flags/to.svg" width="96"/><p>Tonga (<code>to</code>)</p></div>
-  <div><img src="flags/torres_strait_islands.svg" width="96"/><p>Torres Strait Islands</p></div>
   <div><img src="flags/tr.svg" width="96"/><p>Turkey (<code>tr</code>)</p></div>
   <div><img src="flags/transnistria.svg" width="96"/><p>Transnistria</p></div>
   <div><img src="flags/tt.svg" width="96"/><p>Trinidad and Tobago (<code>tt</code>)</p></div>
