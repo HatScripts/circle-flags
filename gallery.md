@@ -376,6 +376,8 @@
   <div><img src="flags/us-ri.svg" width="96"/><p>Rhode Island (<code>us-ri</code>)</p></div>
   <div><img src="flags/us-tn.svg" width="96"/><p>Tennessee (<code>us-tn</code>)</p></div>
   <div><img src="flags/us-tx.svg" width="96"/><p>Texas (<code>us-tx</code>)</p></div>
+  <div><img src="flags/us-betsy_ross.svg" width="96"/><p>Betsy Ross</p></div>
+  <div><img src="flags/us-confederate_battle.svg" width="96"/><p>Confederate battle</p></div>
   <div><img src="flags/um.svg" width="96"/><p>United States Minor Outlying Islands (<code>um</code>)</p></div>
   <div><img src="flags/uy.svg" width="96"/><p>Uruguay (<code>uy</code>)</p></div>
   <div><img src="flags/uz.svg" width="96"/><p>Uzbekistan (<code>uz</code>)</p></div>
