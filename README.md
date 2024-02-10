@@ -55,14 +55,25 @@ npm install --save https://github.com/HatScripts/circle-flags
 
 ## Contributing
 
-To contribute, you need to have the latest version of [svgo](https://github.com/svg/svgo) installed.
+### Initial setup
+
+To contribute, you need to have the [Node.js](https://nodejs.org) JavaScript runtime installed,
+and the latest version of [svgo](https://github.com/svg/svgo).
+Once Node.js is set up, you can run the following command to install `svgo` in the circle-flags project directory:
+
+```sh
+npm install
+```
+
+### Making changes
 
 First, edit the relevant SVG files in the `flags/` directory.
 
-Then run `svgo` to optimize the SVG files:
+Then run the `svgo` wrapper script (defined in the `scripts` section of [package.json](./package.json)),
+which uses the locally-installed `svgo` executable to optimize the SVG files:
 
 ```sh
-svgo ./flags --recursive --config=svgo.config.js
+npm run svgo
 ```
 
 Then commit the changes, and submit them as a pull request.
