@@ -31,6 +31,10 @@ To view all the available flags, check [the gallery](https://hatscripts.github.i
 
 If you're using [React](https://reactjs.org), you may want to try the [react-circle-flags](https://www.npmjs.com/package/react-circle-flags) package.
 
+### React Native / Expo
+
+If you're using [React Native / Expo](https://reactnative.dev/), you may want to try the [react-native-circle-flags](https://www.npmjs.com/package/react-native-circle-flags) package.
+
 ### SolidJS
 
 If you're using [SolidJS](https://www.solidjs.com/), you may want to try the [solid-circle-flags](https://www.npmjs.com/package/solid-circle-flags) package.
