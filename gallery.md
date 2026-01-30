@@ -63,6 +63,7 @@ https://hatscripts.github.io/circle-flags/flags/xx.svg
   <div><img src="flags/bv.svg" width="96"/><p>Bouvet Island (<code>bv</code>)</p></div>
   <div><img src="flags/bw.svg" width="96"/><p>Botswana (<code>bw</code>)</p></div>
   <div><img src="flags/by.svg" width="96"/><p>Belarus (<code>by</code>)</p></div>
+  <div><img src="flags/by-historical.svg" width="96"/><p>Belarus (historical)</p></div>
   <div><img src="flags/bz.svg" width="96"/><p>Belize (<code>bz</code>)</p></div>
   <div><img src="flags/ca.svg" width="96"/><p>Canada (<code>ca</code>)</p></div>
   <div><img src="flags/ca-bc.svg" width="96"/><p>British Columbia (<code>ca-bc</code>)</p></div>
