@@ -114,6 +114,7 @@ https://hatscripts.github.io/circle-flags/flags/xx.svg
   <div><img src="flags/es-ib.svg" width="96"/><p>Balearic Islands (<code>es-ib</code>)</p></div>
   <div><img src="flags/es-ml.svg" width="96"/><p>Melilla (<code>es-ml</code>)</p></div>
   <div><img src="flags/es-pv.svg" width="96"/><p>Basque Country (<code>es-pv</code>)</p></div>
+  <div><img src="flags/es-vc.svg" width="96"/><p>Valencia (<code>es-vc</code>)</p></div>
   <div><img src="flags/et.svg" width="96"/><p>Ethiopia (<code>et</code>)</p></div>
   <div><img src="flags/et-af.svg" width="96"/><p>Afar (<code>et-af</code>)</p></div>
   <div><img src="flags/et-am.svg" width="96"/><p>Amhara (<code>et-am</code>)</p></div>
